@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jmp1st&label=Profile%20views&color=0e75b6&style=flat" alt="jmp1st" /> </p>
 
-- 🌱 I’m currently learning **Full stack development (besides R and Java) to integrate with my Data Science background and build end-to-end solutions, with constant learning of Python, Pandas, SQL, Scikit-learn and so otherS to improve my Data Science skills.**
+- 🌱 I sucesfully concluded ny degree on Data Science and I’m currently learning **Full stack development (besides R and Java) to integrate with my Data Science background and build end-to-end solutions, with constant learning of Python, Pandas, SQL, Scikit-learn and so otherS to improve my Data Science skills.**
 
 - 📫 How to reach me **jomapesep@gmail.com** | Direct message on Github | Below social's
 
