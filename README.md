@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Jose Manuel Perez Sepulveda</h1>
+<h1 align="center"> 🫡Hello, World! I'm Jose Manuel Perez Sepulveda</h1>
 <h3 align="center">A passionate Data Scientist, Multilingual explorer of code, data, and ideas.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jmp1st&label=Profile%20views&color=0e75b6&style=flat" alt="jmp1st" /> </p>
 
-- 🌱 I sucesfully concluded ny degree on Data Science and I’m currently learning **Full stack development (besides R and Java) to integrate with my Data Science background and build end-to-end solutions, with constant learning of Python, Pandas, SQL, Scikit-learn and so otherS to improve my Data Science skills.**
+- 🌱 I sucesfully concluded my degree on Data Science and I’m currently learning **Full stack development (besides R and Java) to integrate with my Data Science background and build end-to-end solutions, with constant learning of Python, Pandas, SQL, Scikit-learn and so otherS to improve my Data Science skills.**
 
 - 📫 How to reach me **jomapesep@gmail.com** | Direct message on Github | Below social's
 
@@ -52,12 +52,6 @@
   </a> 
 
   <!-- NLP -->
-  <a href="https://spacy.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/explosion/spacy/master/website/src/images/logo.svg" alt="spacy" width="40" height="40"/> 
-  </a>
-  <a href="https://www.nltk.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.nltk.org/images/nltk_logo.png" alt="nltk" width="40" height="40"/> 
-  </a>
   <a href="https://huggingface.co/" target="_blank" rel="noreferrer"> 
     <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="40" height="40"/> 
   </a>
