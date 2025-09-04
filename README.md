@@ -11,7 +11,6 @@
 <p align="left">
 <a href="https://twitter.com/jmp1st" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jmp1st" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jose manuel perez sepulveda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jose manuel perez sepulveda" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/jose m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="jose m" height="30" width="40" /></a>
 <a href="https://kaggle.com/jmp1st" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="jmp1st" height="30" width="40" /></a>
 </p>
 
